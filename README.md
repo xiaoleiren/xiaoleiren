@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/linkedin-Xiaolei_Ren-0072B1?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://keybase.io/hxyz">
-    <img src="https://img.shields.io/badge/keybase-Xiaolei-4066E2?logo=keybase&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/keybase-Harry-4066E2?logo=keybase&logoColor=white&style=flat-square" />
   </a>
   <a href="https://github.com/xiaoleiren">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=xiaoleiren&label=visitors&color=grey&style=flat" />
