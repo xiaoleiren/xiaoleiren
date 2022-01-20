@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html, body {
+  color: #c9d1d9;
+  background-color: #0d1117;
+}
+
+.markdown-body a {
+  color: #58a6ff;
+}
+
+.markdown-body hr {
+  background-color: #30363d;
+}
+
+.markdown-body img {
+  background-color: unset;
+}
+
+.markdown-body h1 {
+  border-bottom: 1px solid #21262d;
+
+  &:first-child {
+    display: none;
+  }
+}

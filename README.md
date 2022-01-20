@@ -1,16 +1,35 @@
-### Hi there 👋
+![](assets/images/header.png)
 
-<!--
-**xiaoleiren/xiaoleiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h1 align="center">
+    <b>Hello there, I'm <a href="https://github.com/xiaoleiren">@Harry</a> 👋</b>
+  </h1>
+  <p align="center">
+    <samp>( "👨‍💻 Student" | "Compiler" | "Binary" )</samp>
+  </p>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/xiaoleiren">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+<p align="center">
+  <a href="https://github.com/xiaoleiren">
+    <img src="https://img.shields.io/badge/github-xiaoleiren-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="http://harry.ren">
+    <img src="https://img.shields.io/badge/website-harry.ren-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/xiaolei-harry-ren-01a5b8120">
+    <img src="https://img.shields.io/badge/linkedin-Xiaolei_Ren-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://keybase.io/hxyz">
+    <img src="https://img.shields.io/badge/keybase-hxyz_849A5C7C-4066E2?logo=keybase&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://github.com/xiaoleiren">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=xiaoleiren&label=visitors&color=grey&style=flat" />
+  </a>
+</p>

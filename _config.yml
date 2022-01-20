@@ -1,0 +1,13 @@
+title: Harry Ren
+domain: harry.ren
+url: http://harry.ren
+image: http://harry.ren
+tagline: Student + Compiler + Binary
+description: >-
+  Hello there, I'm @Harry 👋
+  ( "👨‍💻 Student" | "Compiler" | "Binary" )
+
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - github-pages
