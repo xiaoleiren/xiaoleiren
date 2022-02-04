@@ -2,7 +2,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hello there, I'm <a href="https://github.com/xiaoleiren">@Harry</a> 👋</b>
+    <b>Hello there, I'm <a href="https://github.com/xiaoleiren">@Xiaolei</a> 👋</b>
   </h1>
   <p align="center">
     <samp>( "👨‍💻 Student" | "Compiler" | "Binary" )</samp>
