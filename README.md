@@ -12,7 +12,7 @@
 <a href= "https://github.com/BinTuner/Dev"  target= "_blank" >*** My long-maintenance auto-tuning open source framework - BinTuner </a>
 
 If you find our work helpful to your research, please consider citing our paper.
-<script type="text/javascript">
+
 @inproceedings{ren2021unleashing,
   title={Unleashing the hidden power of compiler optimization on binary code difference: An empirical study},
   author={Ren, Xiaolei and Ho, Michael and Ming, Jiang and Lei, Yu and Li, Li},
@@ -20,7 +20,7 @@ If you find our work helpful to your research, please consider citing our paper.
   pages={142--157},
   year={2021}
 }
-</style>
+
 If you experience any issues during installing or using the software, or if you want to contribute to BinTuner, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu.
 
 <p align="center">
