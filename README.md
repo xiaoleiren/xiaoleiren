@@ -9,13 +9,25 @@
   </p>
 </p>
 
+<a href= "https://github.com/BinTuner/Dev"  target= "_blank" >*** My long-maintenance auto-tuning open source framework - BinTuner </a>
+
+@inproceedings{ren2021unleashing,
+  title={Unleashing the hidden power of compiler optimization on binary code difference: An empirical study},
+  author={Ren, Xiaolei and Ho, Michael and Ming, Jiang and Lei, Yu and Li, Li},
+  booktitle={Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation},
+  pages={142--157},
+  year={2021}
+}
+
+If you find our work helpful to your research, please consider citing our paper.
+
 <p align="center">
   <a href="https://github.com/xiaoleiren">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiaoleiren&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
 </p>
 
-<a href= "https://github.com/BinTuner/Dev"  target= "_blank" >Long-maintenance autotuning open source framework - BinTuner</a>
+If you experience any issues during installing or using the software, or if you want to contribute to BinTuner, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu.
 
 
 -----
