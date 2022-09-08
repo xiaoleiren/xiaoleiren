@@ -22,6 +22,9 @@ If you find our work helpful to your research, please consider citing our paper.
   year={2021}
 }
 ```
+```
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&as_ylo=2015&q=Unleashing+the+hidden+power+of+compiler+optimization+on+binary+code+difference%3A+An+empirical+study&btnG=
+```
 
 If you experience any issues during installing or using the software, or if you want to contribute to BinTuner, please feel free to reach out to us either by creating issues on GitHub or sending emails to xiaolei.ren@mavs.uta.edu.
 
