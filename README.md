@@ -9,7 +9,7 @@
   </p>
 </p>
 
-<a href= "https://github.com/BinTuner/Dev"  target= "_blank" >*** My long-maintenance auto-tuning open source framework - BinTuner </a>
+<a href= "https://github.com/BinTuner/Dev"  target= "_blank" >*** My long time maintenance auto-tuning open source framework - BinTuner </a>
 
 If you find our work helpful to your research, please consider citing our paper.
 
