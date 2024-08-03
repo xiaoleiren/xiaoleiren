@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/xiaoleiren">@Xiaolei</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Student" | "Compiler" | "Binary" )</samp>
+    <samp>( "👨‍💻 Researcher" | "Compiler" | "Binary" )</samp>
   </p>
 </p>
 
